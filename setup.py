@@ -4,7 +4,7 @@ readme = open("./README.md","r")
 
 setup(
     name="TestTarifaFedex",
-    packages=['TestTarifaFedex'],
+    packages=['src'],
     version="0.1",
     description="test 1",
     long_description=readme.read(),
