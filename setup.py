@@ -1,6 +1,6 @@
 from setuptools import setup
 
-readme = open(".README.md","r")
+readme = open("./README.md","r")
 
 setup(
     name="TestTarifaFedex",
