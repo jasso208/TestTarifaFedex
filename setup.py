@@ -10,7 +10,7 @@ setup(
     long_description=readme.read(),
     long_description_content_type="text/markdown",
     author="Javier Jasso",
-    author_email="Javier Jasso",
+    author_email="jasso.gallegos@gmail.com",
     url="https://github.com/jasso208/TestTarifaFedex.git",
     licence="MIT",
     include_package_data=True
